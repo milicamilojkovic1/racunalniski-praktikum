@@ -1,4 +1,4 @@
-<!-- glavni naslov -->
+<!-- glavni naslov test -->
 # Računalniški praktikum
 <!-- To je komentar, ki bo na prikazanem Markdown-u skrit. 
      V tem besedilu so v komentarjih napisana navodila za reševanje. -->
