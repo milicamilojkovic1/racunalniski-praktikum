@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  25 NOV 2024 17:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  2 DEC 2024 15:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1030,9 +1030,100 @@ LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <12> not available
 
 ] [24
 
-] [25
+] (prosojnice/prosojnice2/4-stolpci-slike.tex
+<slike/fig-1.png, id=195, 371.88937pt x 295.1025pt>
+File: slike/fig-1.png Graphic file (type png)
+<use slike/fig-1.png>
+Package pdftex.def Info: slike/fig-1.png  used on input line 27.
+(pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
 
-] [26
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
+ [][] 
+ []
+
+[25
+
+ <./slike/fig-1.png>]
+<slike/fig-2.png, id=205, 371.88937pt x 295.1025pt>
+File: slike/fig-2.png Graphic file (type png)
+<use slike/fig-2.png>
+Package pdftex.def Info: slike/fig-2.png  used on input line 27.
+(pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
+ [][] 
+ []
+
+[26
+
+ <./slike/fig-2.png>]
+<slike/fig-3.png, id=212, 371.88937pt x 295.1025pt>
+File: slike/fig-3.png Graphic file (type png)
+<use slike/fig-3.png>
+Package pdftex.def Info: slike/fig-3.png  used on input line 27.
+(pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
+ [][] 
+ []
+
+[27
+
+ <./slike/fig-3.png>]
+<slike/fig-4.png, id=219, 371.88937pt x 295.1025pt>
+File: slike/fig-4.png Graphic file (type png)
+<use slike/fig-4.png>
+Package pdftex.def Info: slike/fig-4.png  used on input line 27.
+(pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
+ [][] 
+ []
+
+[28
+
+ <./slike/fig-4.png>]
+<slike/fig-5.png, id=226, 371.88937pt x 295.1025pt>
+File: slike/fig-5.png Graphic file (type png)
+<use slike/fig-5.png>
+Package pdftex.def Info: slike/fig-5.png  used on input line 27.
+(pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
+ [][] 
+ []
+
+[29
+
+ <./slike/fig-5.png>]
+<slike/fig-6.png, id=233, 371.88937pt x 295.1025pt>
+File: slike/fig-6.png Graphic file (type png)
+<use slike/fig-6.png>
+Package pdftex.def Info: slike/fig-6.png  used on input line 27.
+(pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
+ [][] 
+ []
+
+[30
+
+ <./slike/fig-6.png>]
+<slike/fig-7.png, id=240, 371.88937pt x 295.1025pt>
+File: slike/fig-7.png Graphic file (type png)
+<use slike/fig-7.png>
+Package pdftex.def Info: slike/fig-7.png  used on input line 27.
+(pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
+ [][] 
+ []
+
+[31
+
+ <./slike/fig-7.png>]) [32
+
+] [33
 
 ]
 \tf@nav=\write6
@@ -1053,17 +1144,17 @@ Package rerunfilecheck Info: File `prosojnice.out' has not changed.
 (rerunfilecheck)             Checksum: A81989B9E0447179F9F657BD4D407B98;857.
  ) 
 Here is how much of TeX's memory you used:
- 27518 strings out of 474486
- 554965 string characters out of 5743282
- 1933542 words of memory out of 5000000
- 49157 multiletter control sequences out of 15000+600000
- 574085 words of font info for 73 fonts, out of 8000000 for 9000
+ 27603 strings out of 474486
+ 556780 string characters out of 5743282
+ 1934542 words of memory out of 5000000
+ 49220 multiletter control sequences out of 15000+600000
+ 576042 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,13n,137p,1931b,759s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0600.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1095.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1095.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1095.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1200.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1440.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0800.pk><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on prosojnice.pdf (26 pages, 204408 bytes).
+ <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0600.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1095.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1095.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1095.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1200.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1440.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0800.pk><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on prosojnice.pdf (33 pages, 265406 bytes).
 PDF statistics:
- 520 PDF objects out of 1000 (max. 8388607)
- 59 named destinations out of 1000 (max. 500000)
- 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 582 PDF objects out of 1000 (max. 8388607)
+ 73 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 

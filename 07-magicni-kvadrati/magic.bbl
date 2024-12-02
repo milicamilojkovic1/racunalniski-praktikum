@@ -1,29 +1,24 @@
 \begin{thebibliography}{1}
 
 \bibitem{berlekamp}
-E.~R. Berlekamp, J.~H. Conway, and R.~K. Guy.
-\newblock Games in particular.
-\newblock In {\em Winning Ways for Your Mathematical Plays}, volume~2. Academic
-  Press, London, 1982.
+{\sc E.~R. Berlekamp, J.~H. Conway, and R.~K. Guy}, {\em Games in particular},
+  in Winning Ways for Your Mathematical Plays, vol.~2, Academic Press, London,
+  1982.
 
 \bibitem{bessy}
-B.~F. de~Bessy.
-\newblock {\em Des quarrez magiques}.
-\newblock De l'imprimerie Royale par Jean Anisson, Paris, 1693.
+{\sc B.~F. de~Bessy}, {\em Des quarrez magiques}, De l'imprimerie Royale par
+  Jean Anisson, Paris, 1693.
 
 \bibitem{euler}
-L.~Euler.
-\newblock De quadratis magicis.
-\newblock {\em Commentationes arithmeticae}, 2:593--602, 1849.
+{\sc L.~Euler}, {\em De quadratis magicis}, Commentationes arithmeticae, 2
+  (1849), pp.~593--602.
 
 \bibitem{gardner}
-M.~Gardner.
-\newblock Mathematical games.
-\newblock {\em Scientific American}, 234:118--122, 1976.
+{\sc M.~Gardner}, {\em Mathematical games}, Scientific American, 234 (1976),
+  pp.~118--122.
 
 \bibitem{pinn}
-K.~Pinn and C.~Wieczerkowski.
-\newblock Number of magic squares from parallel tempering monte carlo.
-\newblock {\em Int.\ J. Mod.\ Phys.\ C}, 9:541--547, 1998.
+{\sc K.~Pinn and C.~Wieczerkowski}, {\em Number of magic squares from parallel
+  tempering monte carlo}, Int.\ J. Mod.\ Phys.\ C, 9 (1998), pp.~541--547.
 
 \end{thebibliography}
