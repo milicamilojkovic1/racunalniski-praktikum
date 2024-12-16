@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  2 DEC 2024 15:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  16 DEC 2024 13:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -562,36 +562,144 @@ Package babel Info: Making " an active character on input line 79.
 )) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/sl\babel-slovene.tex
 Package babel Info: Importing font and identification data for slovene
 (babel)             from babel-sl.ini. Reported on input line 11.
+) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box76
+) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen295
+\pgf@nodesepend=\dimen296
+) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen297
+\pgffor@skip=\dimen298
+\pgffor@stack=\toks48
+\pgffor@toks=\toks49
+)) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count338
+\pgfplotmarksize=\dimen299
+)
+\tikz@lastx=\dimen300
+\tikz@lasty=\dimen301
+\tikz@lastxsaved=\dimen302
+\tikz@lastysaved=\dimen303
+\tikz@lastmovetox=\dimen304
+\tikz@lastmovetoy=\dimen305
+\tikzleveldistance=\dimen306
+\tikzsiblingdistance=\dimen307
+\tikz@figbox=\box77
+\tikz@figbox@bg=\box78
+\tikz@tempbox=\box79
+\tikz@tempbox@bg=\box80
+\tikztreelevel=\count339
+\tikznumberofchildren=\count340
+\tikznumberofcurrentchild=\count341
+\tikz@fig@count=\count342
+ (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count343
+\pgfmatrixcurrentcolumn=\count344
+\pgf@matrix@numberofcolumns=\count345
+)
+\tikz@expandcount=\count346
+ (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarymath.code.tex (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryfpu.code.tex (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex))
+\tikz@math@for@depth=\count347
+\tikz@math@dimen=\dimen308
+\tikz@math@toks=\toks50
+) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+ (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex
+\t@pgfplots@toka=\toks51
+\t@pgfplots@tokb=\toks52
+\t@pgfplots@tokc=\toks53
+\pgfplots@tmpa=\dimen309
+\c@pgfplots@coordindex=\count348
+\c@pgfplots@scanlineindex=\count349
+ (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex)) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks54
+\t@pgf@tokb=\toks55
+\t@pgf@tokc=\toks56
+(C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex)) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count350
+) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count351
+\t@pgfplotstable@a=\toks57
+) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex)) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count352
+ (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex)) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex))) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen310
+\pgfdecoratedremainingdistance=\dimen311
+\pgfdecoratedinputsegmentcompleteddistance=\dimen312
+\pgfdecoratedinputsegmentremainingdistance=\dimen313
+\pgf@decorate@distancetomove=\dimen314
+\pgf@decorate@repeatstate=\count353
+\pgfdecorationsegmentamplitude=\dimen315
+\pgfdecorationsegmentlength=\dimen316
+)
+\tikz@lib@dec@box=\box81
+) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathreplacing.code.tex)) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count354
+\pgfplots@xmin@reg=\dimen317
+\pgfplots@xmax@reg=\dimen318
+\pgfplots@ymin@reg=\dimen319
+\pgfplots@ymax@reg=\dimen320
+\pgfplots@zmin@reg=\dimen321
+\pgfplots@zmax@reg=\dimen322
+) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.external.code.tex (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer/libraries\tikzlibraryexternal.code.tex (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzexternalshared.code.tex))) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen323
+\ar@mcellbox=\box82
+\extrarowheight=\dimen324
+\NC@list=\toks58
+\extratabsurround=\skip65
+\backup@length=\skip66
+\ar@cellbox=\box83
 ) (predavanja.sty (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
 Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
  (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count338
-\calc@Bcount=\count339
-\calc@Adimen=\dimen295
-\calc@Bdimen=\dimen296
-\calc@Askip=\skip65
-\calc@Bskip=\skip66
+\calc@Acount=\count355
+\calc@Bcount=\count356
+\calc@Adimen=\dimen325
+\calc@Bdimen=\dimen326
+\calc@Askip=\skip67
+\calc@Bskip=\skip68
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count340
-\calc@Cskip=\skip67
+\calc@Ccount=\count357
+\calc@Cskip=\skip69
 ) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
-\g_MT_multlinerow_int=\count341
-\l_MT_multwidth_dim=\dimen297
-\origjot=\skip68
-\l_MT_shortvdotswithinadjustabove_dim=\dimen298
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen299
-\l_MT_above_intertext_sep=\dimen300
-\l_MT_below_intertext_sep=\dimen301
-\l_MT_above_shortintertext_sep=\dimen302
-\l_MT_below_shortintertext_sep=\dimen303
-\xmathstrut@box=\box76
-\xmathstrut@dim=\dimen304
+\g_MT_multlinerow_int=\count358
+\l_MT_multwidth_dim=\dimen327
+\origjot=\skip70
+\l_MT_shortvdotswithinadjustabove_dim=\dimen328
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen329
+\l_MT_above_intertext_sep=\dimen330
+\l_MT_below_intertext_sep=\dimen331
+\l_MT_above_shortintertext_sep=\dimen332
+\l_MT_below_shortintertext_sep=\dimen333
+\xmathstrut@box=\box84
+\xmathstrut@dim=\dimen334
 ) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/qtree\qtree.sty
 Package: 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
 Package: qtree 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
@@ -605,191 +713,139 @@ Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 114.
  (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/pict2e\p2e-pdftex.def
 File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
 )
-\pIIe@GRAPH=\toks48
-\@arclen=\dimen305
-\@arcrad=\dimen306
-\pIIe@tempdima=\dimen307
-\pIIe@tempdimb=\dimen308
-\pIIe@tempdimc=\dimen309
-\pIIe@tempdimd=\dimen310
-\pIIe@tempdime=\dimen311
-\pIIe@tempdimf=\dimen312
+\pIIe@GRAPH=\toks59
+\@arclen=\dimen335
+\@arcrad=\dimen336
+\pIIe@tempdima=\dimen337
+\pIIe@tempdimb=\dimen338
+\pIIe@tempdimc=\dimen339
+\pIIe@tempdimd=\dimen340
+\pIIe@tempdime=\dimen341
+\pIIe@tempdimf=\dimen342
 )
-\c@treecount=\count342
-\c@branchcount=\count343
-\parentbox=\box77
-\treebox=\box78
-\treeboxone=\box79
-\treeboxtwo=\box80
-\treeboxthree=\box81
-\treeboxfour=\box82
-\treeboxfive=\box83
-\treeboxsix=\box84
-\treeboxseven=\box85
-\treeboxeight=\box86
-\treeboxnine=\box87
-\treeboxten=\box88
-\treeboxeleven=\box89
-\treeboxtwelve=\box90
-\treeboxthirteen=\box91
-\treeboxfourteen=\box92
-\treeboxfifteen=\box93
-\treeboxsixteen=\box94
-\treeboxseventeen=\box95
-\treeboxeighteen=\box96
-\treeboxnineteen=\box97
-\treeboxtwenty=\box98
-\treeoffsetone=\skip69
-\treeoffsettwo=\skip70
-\treeoffsetthree=\skip71
-\treeoffsetfour=\skip72
-\treeoffsetfive=\skip73
-\treeoffsetsix=\skip74
-\treeoffsetseven=\skip75
-\treeoffseteight=\skip76
-\treeoffsetnine=\skip77
-\treeoffsetten=\skip78
-\treeoffseteleven=\skip79
-\treeoffsettwelve=\skip80
-\treeoffsetthirteen=\skip81
-\treeoffsetfourteen=\skip82
-\treeoffsetfifteen=\skip83
-\treeoffsetsixteen=\skip84
-\treeoffsetseventeen=\skip85
-\treeoffseteighteen=\skip86
-\treeoffsetnineteen=\skip87
-\treeoffsettwenty=\skip88
-\treeshiftone=\skip89
-\treeshifttwo=\skip90
-\treeshiftthree=\skip91
-\treeshiftfour=\skip92
-\treeshiftfive=\skip93
-\treeshiftsix=\skip94
-\treeshiftseven=\skip95
-\treeshifteight=\skip96
-\treeshiftnine=\skip97
-\treeshiftten=\skip98
-\treeshifteleven=\skip99
-\treeshifttwelve=\skip100
-\treeshiftthirteen=\skip101
-\treeshiftfourteen=\skip102
-\treeshiftfifteen=\skip103
-\treeshiftsixteen=\skip104
-\treeshiftseventeen=\skip105
-\treeshifteighteen=\skip106
-\treeshiftnineteen=\skip107
-\treeshifttwenty=\skip108
-\treewidthone=\skip109
-\treewidthtwo=\skip110
-\treewidththree=\skip111
-\treewidthfour=\skip112
-\treewidthfive=\skip113
-\treewidthsix=\skip114
-\treewidthseven=\skip115
-\treewidtheight=\skip116
-\treewidthnine=\skip117
-\treewidthten=\skip118
-\treewidtheleven=\skip119
-\treewidthtwelve=\skip120
-\treewidththirteen=\skip121
-\treewidthfourteen=\skip122
-\treewidthfifteen=\skip123
-\treewidthsixteen=\skip124
-\treewidthseventeen=\skip125
-\treewidtheighteen=\skip126
-\treewidthnineteen=\skip127
-\treewidthtwenty=\skip128
-\daughteroffsetone=\skip129
-\daughteroffsettwo=\skip130
-\daughteroffsetthree=\skip131
-\daughteroffsetfour=\skip132
-\branchwidthone=\skip133
-\branchwidthtwo=\skip134
-\branchwidththree=\skip135
-\branchwidthfour=\skip136
-\parentoffset=\skip137
-\treeoffset=\skip138
-\daughteroffset=\skip139
-\branchwidth=\skip140
-\parentwidth=\skip141
-\treewidth=\skip142
-\qta=\toks49
-\qtb=\toks50
-\nbranches=\count344
-\qroofx=\count345
-\qroofy=\count346
-\@qrscratchbox=\box99
+\c@treecount=\count359
+\c@branchcount=\count360
+\parentbox=\box85
+\treebox=\box86
+\treeboxone=\box87
+\treeboxtwo=\box88
+\treeboxthree=\box89
+\treeboxfour=\box90
+\treeboxfive=\box91
+\treeboxsix=\box92
+\treeboxseven=\box93
+\treeboxeight=\box94
+\treeboxnine=\box95
+\treeboxten=\box96
+\treeboxeleven=\box97
+\treeboxtwelve=\box98
+\treeboxthirteen=\box99
+\treeboxfourteen=\box100
+\treeboxfifteen=\box101
+\treeboxsixteen=\box102
+\treeboxseventeen=\box103
+\treeboxeighteen=\box104
+\treeboxnineteen=\box105
+\treeboxtwenty=\box106
+\treeoffsetone=\skip71
+\treeoffsettwo=\skip72
+\treeoffsetthree=\skip73
+\treeoffsetfour=\skip74
+\treeoffsetfive=\skip75
+\treeoffsetsix=\skip76
+\treeoffsetseven=\skip77
+\treeoffseteight=\skip78
+\treeoffsetnine=\skip79
+\treeoffsetten=\skip80
+\treeoffseteleven=\skip81
+\treeoffsettwelve=\skip82
+\treeoffsetthirteen=\skip83
+\treeoffsetfourteen=\skip84
+\treeoffsetfifteen=\skip85
+\treeoffsetsixteen=\skip86
+\treeoffsetseventeen=\skip87
+\treeoffseteighteen=\skip88
+\treeoffsetnineteen=\skip89
+\treeoffsettwenty=\skip90
+\treeshiftone=\skip91
+\treeshifttwo=\skip92
+\treeshiftthree=\skip93
+\treeshiftfour=\skip94
+\treeshiftfive=\skip95
+\treeshiftsix=\skip96
+\treeshiftseven=\skip97
+\treeshifteight=\skip98
+\treeshiftnine=\skip99
+\treeshiftten=\skip100
+\treeshifteleven=\skip101
+\treeshifttwelve=\skip102
+\treeshiftthirteen=\skip103
+\treeshiftfourteen=\skip104
+\treeshiftfifteen=\skip105
+\treeshiftsixteen=\skip106
+\treeshiftseventeen=\skip107
+\treeshifteighteen=\skip108
+\treeshiftnineteen=\skip109
+\treeshifttwenty=\skip110
+\treewidthone=\skip111
+\treewidthtwo=\skip112
+\treewidththree=\skip113
+\treewidthfour=\skip114
+\treewidthfive=\skip115
+\treewidthsix=\skip116
+\treewidthseven=\skip117
+\treewidtheight=\skip118
+\treewidthnine=\skip119
+\treewidthten=\skip120
+\treewidtheleven=\skip121
+\treewidthtwelve=\skip122
+\treewidththirteen=\skip123
+\treewidthfourteen=\skip124
+\treewidthfifteen=\skip125
+\treewidthsixteen=\skip126
+\treewidthseventeen=\skip127
+\treewidtheighteen=\skip128
+\treewidthnineteen=\skip129
+\treewidthtwenty=\skip130
+\daughteroffsetone=\skip131
+\daughteroffsettwo=\skip132
+\daughteroffsetthree=\skip133
+\daughteroffsetfour=\skip134
+\branchwidthone=\skip135
+\branchwidthtwo=\skip136
+\branchwidththree=\skip137
+\branchwidthfour=\skip138
+\parentoffset=\skip139
+\treeoffset=\skip140
+\daughteroffset=\skip141
+\branchwidth=\skip142
+\parentwidth=\skip143
+\treewidth=\skip144
+\qta=\toks60
+\qtb=\toks61
+\nbranches=\count361
+\qroofx=\count362
+\qroofy=\count363
+\@qrscratchbox=\box107
 ) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/beamertheme-metropolis\beamerthememetropolis.sty
 Package: beamerthememetropolis 2017/01/23 v1.2 Metropolis Beamer theme
  (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/pgfopts\pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
-\pgfopts@list@add@a@toks=\toks51
-\pgfopts@list@add@b@toks=\toks52
+\pgfopts@list@add@a@toks=\toks62
+\pgfopts@list@add@b@toks=\toks63
 ) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/beamertheme-metropolis\beamerinnerthememetropolis.sty
 Package: beamerinnerthememetropolis 2017/01/23 Metropolis inner theme
- (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
-Package: pgf 2023-01-15 v3.1.10 (3.1.10)
- (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box100
-) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen313
-\pgf@nodesepend=\dimen314
-) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-)) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
-Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen315
-\pgffor@skip=\dimen316
-\pgffor@stack=\toks53
-\pgffor@toks=\toks54
-)) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
-Package: tikz 2023-01-15 v3.1.10 (3.1.10)
- (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count347
-\pgfplotmarksize=\dimen317
-)
-\tikz@lastx=\dimen318
-\tikz@lasty=\dimen319
-\tikz@lastxsaved=\dimen320
-\tikz@lastysaved=\dimen321
-\tikz@lastmovetox=\dimen322
-\tikz@lastmovetoy=\dimen323
-\tikzleveldistance=\dimen324
-\tikzsiblingdistance=\dimen325
-\tikz@figbox=\box101
-\tikz@figbox@bg=\box102
-\tikz@tempbox=\box103
-\tikz@tempbox@bg=\box104
-\tikztreelevel=\count348
-\tikznumberofchildren=\count349
-\tikznumberofcurrentchild=\count350
-\tikz@fig@count=\count351
- (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count352
-\pgfmatrixcurrentcolumn=\count353
-\pgf@matrix@numberofcolumns=\count354
-)
-\tikz@expandcount=\count355
- (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
-\metropolis@titleseparator@linewidth=\skip143
-\metropolis@progressonsectionpage=\skip144
-\metropolis@progressonsectionpage@linewidth=\skip145
-\metropolis@blocksep=\skip146
-\metropolis@blockadjust=\skip147
-\metropolis@parskip=\skip148
+\metropolis@titleseparator@linewidth=\skip145
+\metropolis@progressonsectionpage=\skip146
+\metropolis@progressonsectionpage@linewidth=\skip147
+\metropolis@blocksep=\skip148
+\metropolis@blockadjust=\skip149
+\metropolis@parskip=\skip150
 ) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/beamertheme-metropolis\beamerouterthememetropolis.sty
 Package: beamerouterthememetropolis 2017/01/23 Metropolis outer theme
-\metropolis@frametitle@padding=\skip149
-\metropolis@progressinheadfoot=\skip150
-\metropolis@progressinheadfoot@linewidth=\skip151
+\metropolis@frametitle@padding=\skip151
+\metropolis@progressinheadfoot=\skip152
+\metropolis@progressinheadfoot@linewidth=\skip153
 ) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/beamertheme-metropolis\beamercolorthememetropolis.sty
 Package: beamercolorthememetropolis 2017/01/23 Metropolis color theme
 ) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/beamertheme-metropolis\beamerfontthememetropolis.sty
@@ -803,32 +859,34 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 Package beamerthememetropolis Warning: You need to compile with XeLaTeX or LuaLaTeX to use the Fira fonts on input line 95.
 
 )))
-\c@izrek=\count356
- (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+\c@izrek=\count364
+ (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/beamertheme-metropolis\pgfplotsthemetol.sty
+Package: pgfplotsthemetol 2017/01/23 PGFplots colors based on Paul Tol's SRON technical note
+) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count357
-\l__pdf_internal_box=\box105
+\l__color_backend_stack_int=\count365
+\l__pdf_internal_box=\box108
 ) (prosojnice.aux)
 \openout1 = `prosojnice.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -866,81 +924,81 @@ LaTeX Font Info:    ... okay on input line 24.
 
 (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count358
-\scratchdimen=\dimen326
-\scratchbox=\box106
-\nofMPsegments=\count359
-\nofMParguments=\count360
-\everyMPshowfont=\toks55
-\MPscratchCnt=\count361
-\MPscratchDim=\dimen327
-\MPnumerator=\count362
-\makeMPintoPDFobject=\count363
-\everyMPtoPDFconversion=\toks56
+\scratchcounter=\count366
+\scratchdimen=\dimen343
+\scratchbox=\box109
+\nofMPsegments=\count367
+\nofMParguments=\count368
+\everyMPshowfont=\toks64
+\MPscratchCnt=\count369
+\MPscratchDim=\dimen344
+\MPnumerator=\count370
+\makeMPintoPDFobject=\count371
+\everyMPtoPDFconversion=\toks65
 ) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 24.
+Package hyperref Info: Link coloring OFF on input line 35.
  (prosojnice.out) (prosojnice.out)
 \@outlinefile=\write5
 \openout5 = `prosojnice.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 24.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 35.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 24.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 35.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 24.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 24.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 35.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 24.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 24.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 24.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 35.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 24.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 24.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 24.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 35.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 24.
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 24.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 24.
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 35.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 24.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 24.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 35.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 24.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 35.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 24.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 24.
+(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 24.
+(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 24.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 24.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 24.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 24.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 35.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 35.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 24.
+(Font)              `pureletters' in the math version `normal' on input line 35.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 24.
+(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 35.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 24.
+(Font)              `pureletters' in the math version `bold' on input line 35.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 24.
+(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 35.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 24.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 35.
  (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-bibliography-dictionary-English.dict
@@ -953,13 +1011,16 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (prosojnice.nav)
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 29.
+)
+Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
+
+(prosojnice.nav)
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 40.
  (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 29.
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 40.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -972,15 +1033,15 @@ Overfull \vbox (27.90385pt too high) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3] [4]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 52.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 63.
  (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 52.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 63.
  (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 52.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 63.
  (C:\Users\milica\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 ) [5
@@ -1028,104 +1089,152 @@ LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <12> not available
 
 ]) [23
 
-] [24
+] (prosojnice/3-analiza-logika-mnozice.tex [24
+
+] [25
+
+] [26
+
+]) [27
 
 ] (prosojnice/prosojnice2/4-stolpci-slike.tex
-<slike/fig-1.png, id=195, 371.88937pt x 295.1025pt>
+<slike/fig-1.png, id=213, 371.88937pt x 295.1025pt>
 File: slike/fig-1.png Graphic file (type png)
 <use slike/fig-1.png>
-Package pdftex.def Info: slike/fig-1.png  used on input line 27.
+Package pdftex.def Info: slike/fig-1.png  used on input line 25.
 (pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
 
-Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
- [][] 
- []
-
-[25
-
- <./slike/fig-1.png>]
-<slike/fig-2.png, id=205, 371.88937pt x 295.1025pt>
-File: slike/fig-2.png Graphic file (type png)
-<use slike/fig-2.png>
-Package pdftex.def Info: slike/fig-2.png  used on input line 27.
-(pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
-
-Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
- [][] 
- []
-
-[26
-
- <./slike/fig-2.png>]
-<slike/fig-3.png, id=212, 371.88937pt x 295.1025pt>
-File: slike/fig-3.png Graphic file (type png)
-<use slike/fig-3.png>
-Package pdftex.def Info: slike/fig-3.png  used on input line 27.
-(pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
-
-Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
- [][] 
- []
-
-[27
-
- <./slike/fig-3.png>]
-<slike/fig-4.png, id=219, 371.88937pt x 295.1025pt>
-File: slike/fig-4.png Graphic file (type png)
-<use slike/fig-4.png>
-Package pdftex.def Info: slike/fig-4.png  used on input line 27.
-(pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
-
-Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 25--25
  [][] 
  []
 
 [28
 
- <./slike/fig-4.png>]
-<slike/fig-5.png, id=226, 371.88937pt x 295.1025pt>
-File: slike/fig-5.png Graphic file (type png)
-<use slike/fig-5.png>
-Package pdftex.def Info: slike/fig-5.png  used on input line 27.
+ <./slike/fig-1.png>]
+<slike/fig-2.png, id=222, 371.88937pt x 295.1025pt>
+File: slike/fig-2.png Graphic file (type png)
+<use slike/fig-2.png>
+Package pdftex.def Info: slike/fig-2.png  used on input line 25.
 (pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
 
-Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 25--25
  [][] 
  []
 
 [29
 
- <./slike/fig-5.png>]
-<slike/fig-6.png, id=233, 371.88937pt x 295.1025pt>
-File: slike/fig-6.png Graphic file (type png)
-<use slike/fig-6.png>
-Package pdftex.def Info: slike/fig-6.png  used on input line 27.
+ <./slike/fig-2.png>]
+<slike/fig-3.png, id=229, 371.88937pt x 295.1025pt>
+File: slike/fig-3.png Graphic file (type png)
+<use slike/fig-3.png>
+Package pdftex.def Info: slike/fig-3.png  used on input line 25.
 (pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
 
-Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 25--25
  [][] 
  []
 
 [30
 
- <./slike/fig-6.png>]
-<slike/fig-7.png, id=240, 371.88937pt x 295.1025pt>
-File: slike/fig-7.png Graphic file (type png)
-<use slike/fig-7.png>
-Package pdftex.def Info: slike/fig-7.png  used on input line 27.
+ <./slike/fig-3.png>]
+<slike/fig-4.png, id=236, 371.88937pt x 295.1025pt>
+File: slike/fig-4.png Graphic file (type png)
+<use slike/fig-4.png>
+Package pdftex.def Info: slike/fig-4.png  used on input line 25.
 (pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
 
-Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 25--25
  [][] 
  []
 
 [31
 
- <./slike/fig-7.png>]) [32
+ <./slike/fig-4.png>]
+<slike/fig-5.png, id=244, 371.88937pt x 295.1025pt>
+File: slike/fig-5.png Graphic file (type png)
+<use slike/fig-5.png>
+Package pdftex.def Info: slike/fig-5.png  used on input line 25.
+(pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
 
-] [33
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 25--25
+ [][] 
+ []
 
-]
+[32
+
+ <./slike/fig-5.png>]
+<slike/fig-6.png, id=251, 371.88937pt x 295.1025pt>
+File: slike/fig-6.png Graphic file (type png)
+<use slike/fig-6.png>
+Package pdftex.def Info: slike/fig-6.png  used on input line 25.
+(pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 25--25
+ [][] 
+ []
+
+[33
+
+ <./slike/fig-6.png>]
+<slike/fig-7.png, id=258, 371.88937pt x 295.1025pt>
+File: slike/fig-7.png Graphic file (type png)
+<use slike/fig-7.png>
+Package pdftex.def Info: slike/fig-7.png  used on input line 25.
+(pdftex.def)             Requested size: 142.26378pt x 112.89209pt.
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 25--25
+ [][] 
+ []
+
+[34
+
+ <./slike/fig-7.png>] [35
+
+] [36
+
+] [37
+
+] [38
+
+] [39
+
+] [40
+
+] [41
+
+] [42
+
+]) [43
+
+] (prosojnice/prosojnice2/5-beamer-tabele.tex [44
+
+] [45
+
+] [46
+
+] [47
+
+] [48
+
+] [49
+
+] [50
+
+] [51
+
+] [52
+
+]) [53
+
+] (prosojnice/prosojnice2/6-zaporedja-algebra-grupe.tex [54
+
+] [55
+
+] [56
+
+] [57
+
+])
 \tf@nav=\write6
 \openout6 = `prosojnice.nav'.
 
@@ -1144,17 +1253,17 @@ Package rerunfilecheck Info: File `prosojnice.out' has not changed.
 (rerunfilecheck)             Checksum: A81989B9E0447179F9F657BD4D407B98;857.
  ) 
 Here is how much of TeX's memory you used:
- 27603 strings out of 474486
- 556780 string characters out of 5743282
- 1934542 words of memory out of 5000000
- 49220 multiletter control sequences out of 15000+600000
- 576042 words of font info for 80 fonts, out of 8000000 for 9000
+ 38925 strings out of 474486
+ 933938 string characters out of 5743282
+ 1944542 words of memory out of 5000000
+ 60323 multiletter control sequences out of 15000+600000
+ 579259 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,13n,137p,1931b,759s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0600.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1095.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1095.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1095.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1200.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1440.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0800.pk><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on prosojnice.pdf (33 pages, 265406 bytes).
+ 128i,18n,123p,1931b,2227s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1000.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1000.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0600.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1095.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1095.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1095.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1200.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1440.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\milica\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0800.pk><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/milica/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on prosojnice.pdf (57 pages, 339388 bytes).
 PDF statistics:
- 582 PDF objects out of 1000 (max. 8388607)
- 73 named destinations out of 1000 (max. 500000)
+ 753 PDF objects out of 1000 (max. 8388607)
+ 121 named destinations out of 1000 (max. 500000)
  126 words of extra memory for PDF output out of 10000 (max. 10000000)
 
